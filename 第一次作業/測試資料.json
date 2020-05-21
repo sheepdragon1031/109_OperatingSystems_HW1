@@ -1,0 +1,52 @@
+{
+    "memory": [50, 20, 70, 100, 60],
+    "process": [{
+            "size": 10,
+            "time": 5
+        },
+        {
+            "size": 60,
+            "time": 3
+        },
+        {
+            "size": 15,
+            "time": 2
+        },
+        {
+            "size": 80,
+            "time": 2
+        },
+        {
+            "size": 90,
+            "time": 1
+        },
+        {
+            "size": 20,
+            "time": 7
+        },
+        {
+            "size": 35,
+            "time": 2
+        },
+        {
+            "size": 40,
+            "time": 1
+        },
+        {
+            "size": 75,
+            "time": 3
+        },
+        {
+            "size": 10,
+            "time": 5
+        },
+        {
+            "size": 80,
+            "time": 3
+        },
+        {
+            "size": 10,
+            "time": 1
+        }
+    ]
+}
